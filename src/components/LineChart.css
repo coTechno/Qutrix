@@ -1,0 +1,29 @@
+body{
+    background: black;
+    color: #3e76d2 !important;
+    font-style: italic;
+}
+.content-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    margin: 10vh 5vw;
+}
+.chart{
+    background-color: #0f182c;
+    margin-top: 4vh;
+    border: 2px solid #3c3e42;
+    width: 56vw;
+    height: 60vh;
+    padding: 5px;
+}
+h2{
+    margin-bottom: 2vh;
+}
+.loader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
